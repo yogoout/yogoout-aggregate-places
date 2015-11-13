@@ -1,0 +1,27 @@
+{
+    "name": "yogoout-aggregate-places",
+    "version": "1.0.0",
+    "description": "generate places data from various sources",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yogoout/yogoout-generate-places"
+    },
+    "author": "claude.seguret@gmail.com",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/yogoout/yogoout-generate-places/issues"
+    },
+    "dependencies": {
+        "base-converter": "*",
+        "md5": "*",
+        "async": "*"
+    },
+    "devDependencies": {
+        "mocha": "*"
+    },
+    "homepage": "https://github.com/yogoout/yogoout-generate-places"
+}

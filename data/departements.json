@@ -1,0 +1,553 @@
+{
+  "01": {
+    "departement":"Ain",
+    "region":"Rhône-Alpes",
+"country":"FR"
+  },
+  "02": {
+    "departement":"Aisne",
+    "region":"Picardie",
+"country":"FR"
+  },
+  "03": {
+    "departement":"Allier",
+    "region":"Auvergne",
+"country":"FR"
+  },
+  "04": {
+    "departement":"Alpes de Hautes-Provence",
+    "region":"Provence-Alpes-Côte d'Azur",
+"country":"FR"
+  },
+  "05": {
+    "departement":"Hautes-Alpes",
+    "region":"Provence-Alpes-Côte d'Azur",
+"country":"FR"
+  },
+  "06": {
+    "departement":"Alpes-Maritimes",
+    "region":"Provence-Alpes-Côte d'Azur",
+"country":"FR"
+  },
+  "07": {
+    "departement":"Ardèche",
+    "region":"Rhône-Alpes",
+"country":"FR"
+  },
+  "08": {
+    "departement":"Ardennes",
+    "region":"Champagne-Ardenne",
+"country":"FR"
+  },
+  "09": {
+    "departement":"Ariège",
+    "region":"Midi-Pyrénées",
+"country":"FR"
+  },
+  "10": {
+    "departement":"Aube",
+    "region":"Champagne-Ardenne",
+"country":"FR"
+  },
+  "11": {
+    "departement":"Aude",
+    "region":"Languedoc-Roussillon",
+"country":"FR"
+  },
+  "12": {
+    "departement":"Aveyron",
+    "region":"Midi-Pyrénées",
+"country":"FR"
+  },
+  "13": {
+    "departement":"Bouches-du-Rhône",
+    "region":"Provence-Alpes-Côte d'Azur",
+"country":"FR"
+  },
+  "14": {
+    "departement":"Calvados",
+    "region":"Basse-Normandie",
+"country":"FR"
+  },
+  "15": {
+    "departement":"Cantal",
+    "region":"Auvergne",
+"country":"FR"
+  },
+  "16": {
+    "departement":"Charente",
+    "region":"Poitou-Charentes",
+"country":"FR"
+  },
+  "17": {
+    "departement":"Charente-Maritime",
+    "region":"Poitou-Charentes",
+"country":"FR"
+  },
+  "18": {
+    "departement":"Cher",
+    "region":"Centre",
+"country":"FR"
+  },
+  "19": {
+    "departement":"Corrèze",
+    "region":"Limousin",
+"country":"FR"
+  },
+  "2A": {
+    "departement":"Corse-du-Sud",
+    "region":"Corse",
+"country":"FR"
+  },
+  "2B": {
+    "departement":"Haute-Corse",
+    "region":"Corse",
+"country":"FR"
+  },
+  "21": {
+    "departement":"Côte-d'Or",
+    "region":"Bourgogne",
+"country":"FR"
+  },
+  "22": {
+    "departement":"Côtes d'Armor",
+    "region":"Bretagne",
+"country":"FR"
+  },
+  "23": {
+    "departement":"Creuse",
+    "region":"Limousin",
+"country":"FR"
+  },
+  "24": {
+    "departement":"Dordogne",
+    "region":"Aquitaine",
+"country":"FR"
+  },
+  "25": {
+    "departement":"Doubs",
+    "region":"Franche-Comté",
+"country":"FR"
+  },
+  "26": {
+    "departement":"Drôme",
+    "region":"Rhône-Alpes",
+"country":"FR"
+  },
+  "27": {
+    "departement":"Eure",
+    "region":"Haute-Normandie",
+"country":"FR"
+  },
+  "28": {
+    "departement":"Eure-et-Loir",
+    "region":"Centre",
+"country":"FR"
+  },
+  "29": {
+    "departement":"Finistère",
+    "region":"Bretagne",
+"country":"FR"
+  },
+  "30": {
+    "departement":"Gard",
+    "region":"Languedoc-Roussillon",
+"country":"FR"
+  },
+  "31": {
+    "departement":"Haute-Garonne",
+    "region":"Midi-Pyrénées",
+"country":"FR"
+  },
+  "32": {
+    "departement":"Gers",
+    "region":"Midi-Pyrénées",
+"country":"FR"
+  },
+  "33": {
+    "departement":"Gironde",
+    "region":"Aquitaine",
+"country":"FR"
+  },
+  "34": {
+    "departement":"Hérault",
+    "region":"Languedoc-Roussillon",
+"country":"FR"
+  },
+  "35": {
+    "departement":"Ille-et-Vilaine",
+    "region":"Bretagne",
+"country":"FR"
+  },
+  "36": {
+    "departement":"Indre",
+    "region":"Centre",
+"country":"FR"
+  },
+  "37": {
+    "departement":"Indre-et-Loire",
+    "region":"Centre",
+"country":"FR"
+  },
+  "38": {
+    "departement":"Isère",
+    "region":"Rhône-Alpes",
+"country":"FR"
+  },
+  "39": {
+    "departement":"Jura",
+    "region":"Franche-Comté",
+"country":"FR"
+  },
+  "40": {
+    "departement":"Landes",
+    "region":"Aquitaine",
+"country":"FR"
+  },
+  "41": {
+    "departement":"Loir-et-Cher",
+    "region":"Centre",
+"country":"FR"
+  },
+  "42": {
+    "departement":"Loire",
+    "region":"Rhône-Alpes",
+"country":"FR"
+  },
+  "43": {
+    "departement":"Haute-Loire",
+    "region":"Auvergne",
+"country":"FR"
+  },
+  "44": {
+    "departement":"Loire-Atlantique",
+    "region":"Pays de la Loire",
+"country":"FR"
+  },
+  "45": {
+    "departement":"Loiret",
+    "region":"Centre",
+"country":"FR"
+  },
+  "46": {
+    "departement":"Lot",
+    "region":"Midi-Pyrénées",
+"country":"FR"
+  },
+  "47": {
+    "departement":"Lot-et-Garonne",
+    "region":"Aquitaine",
+"country":"FR"
+  },
+  "48": {
+    "departement":"Lozère",
+    "region":"Languedoc-Roussillon",
+"country":"FR"
+  },
+  "49": {
+    "departement":"Maine-et-Loire",
+    "region":"Pays de la Loire",
+"country":"FR"
+  },
+  "50": {
+    "departement":"Manche",
+    "region":"Basse-Normandie",
+"country":"FR"
+  },
+  "51": {
+    "departement":"Marne",
+    "region":"Champagne-Ardenne",
+"country":"FR"
+  },
+  "52": {
+    "departement":"Haute-Marne",
+    "region":"Champagne-Ardenne",
+"country":"FR"
+  },
+  "53": {
+    "departement":"Mayenne",
+    "region":"Pays de la Loire",
+"country":"FR"
+  },
+  "54": {
+    "departement":"Meurthe-et-Moselle",
+    "region":"Lorraine",
+"country":"FR"
+  },
+  "55": {
+    "departement":"Meuse",
+    "region":"Lorraine",
+"country":"FR"
+  },
+  "56": {
+    "departement":"Morbihan",
+    "region":"Bretagne",
+"country":"FR"
+  },
+  "57": {
+    "departement":"Moselle",
+    "region":"Lorraine",
+"country":"FR"
+  },
+  "58": {
+    "departement":"Nièvre",
+    "region":"Bourgogne",
+"country":"FR"
+  },
+  "59": {
+    "departement":"Nord",
+    "region":"Nord-Pas-de-Calais",
+"country":"FR"
+  },
+  "60": {
+    "departement":"Oise",
+    "region":"Picardie",
+"country":"FR"
+  },
+  "61": {
+    "departement":"Orne",
+    "region":"Basse-Normandie",
+"country":"FR"
+  },
+  "62": {
+    "departement":"Pas-de-Calais",
+    "region":"Nord-Pas-de-Calais",
+"country":"FR"
+  },
+  "63": {
+    "departement":"Puy-de-Dôme",
+    "region":"Auvergne",
+"country":"FR"
+  },
+  "64": {
+    "departement":"Pyrénées-Atlantiques",
+    "region":"Aquitaine",
+"country":"FR"
+  },
+  "65": {
+    "departement":"Hautes-Pyrénées",
+    "region":"Midi-Pyrénées",
+"country":"FR"
+  },
+  "66": {
+    "departement":"Pyrénées-Orientales",
+    "region":"Languedoc-Roussillon",
+"country":"FR"
+  },
+  "67": {
+    "departement":"Bas-Rhin",
+    "region":"Alsace",
+"country":"FR"
+  },
+  "68": {
+    "departement":"Haut-Rhin",
+    "region":"Alsace",
+"country":"FR"
+  },
+  "69": {
+    "departement":"Rhône",
+    "region":"Rhône-Alpes",
+"country":"FR"
+  },
+  "70": {
+    "departement":"Haute-Saône",
+    "region":"Franche-Comté",
+"country":"FR"
+  },
+  "71": {
+    "departement":"Saône-et-Loire",
+    "region":"Bourgogne",
+"country":"FR"
+  },
+  "72": {
+    "departement":"Sarthe",
+    "region":"Pays de la Loire",
+"country":"FR"
+  },
+  "73": {
+    "departement":"Savoie",
+    "region":"Rhône-Alpes",
+"country":"FR"
+  },
+  "74": {
+    "departement":"Haute-Savoie",
+    "region":"Rhône-Alpes",
+"country":"FR"
+  },
+  "75": {
+    "departement":"Paris",
+    "region":"Ile-de-France",
+"country":"FR"
+  },
+  "76": {
+    "departement":"Seine-Maritime",
+    "region":"Haute-Normandie",
+"country":"FR"
+  },
+  "77": {
+    "departement":"Seine-et-Marne",
+    "region":"Ile-de-France",
+"country":"FR"
+  },
+  "78": {
+    "departement":"Yvelines",
+    "region":"Ile-de-France",
+"country":"FR"
+  },
+  "79": {
+    "departement":"Deux-Sèvres",
+    "region":"Poitou-Charentes",
+"country":"FR"
+  },
+  "80": {
+    "departement":"Somme",
+    "region":"Picardie",
+"country":"FR"
+  },
+  "81": {
+    "departement":"Tarn",
+    "region":"Midi-Pyrénées",
+"country":"FR"
+  },
+  "82": {
+    "departement":"Tarn-et-Garonne",
+    "region":"Midi-Pyrénées",
+"country":"FR"
+  },
+  "83": {
+    "departement":"Var",
+    "region":"Provence-Alpes-Côte d'Azur",
+"country":"FR"
+  },
+  "84": {
+    "departement":"Vaucluse",
+    "region":"Provence-Alpes-Côte d'Azur",
+"country":"FR"
+  },
+  "85": {
+    "departement":"Vendée",
+    "region":"Pays de la Loire",
+"country":"FR"
+  },
+  "86": {
+    "departement":"Vienne",
+    "region":"Poitou-Charentes",
+"country":"FR"
+  },
+  "87": {
+    "departement":"Haute-Vienne",
+    "region":"Limousin",
+"country":"FR"
+  },
+  "88": {
+    "departement":"Vosges",
+    "region":"Lorraine",
+"country":"FR"
+  },
+  "89": {
+    "departement":"Yonne",
+    "region":"Bourgogne",
+"country":"FR"
+  },
+  "90": {
+    "departement":"Territoire-de-Belfort",
+    "region":"Franche-Comté",
+"country":"FR"
+  },
+  "91": {
+    "departement":"Essonne",
+    "region":"Ile-de-France",
+"country":"FR"
+  },
+  "92": {
+    "departement":"Hauts-de-Seine",
+    "region":"Ile-de-France",
+"country":"FR"
+  },
+  "93": {
+    "departement":"Seine-Saint-Denis",
+    "region":"Ile-de-France",
+"country":"FR"
+  },
+  "94": {
+    "departement":"Val-de-Marne",
+    "region":"Ile-de-France",
+"country":"FR"
+  },
+  "95": {
+    "departement":"Val-d'Oise",
+    "region":"Ile-de-France",
+"country":"FR"
+  },
+  "971": {
+    "departement":"Guadeloupe",
+    "region":"Guadeloupe",
+"country":"GP"
+  },
+  "972": {
+    "departement":"Martinique",
+    "region":"Martinique",
+"country":"MQ"
+  },
+  "973": {
+    "departement":"Guyane",
+    "region":"Guyane",
+"country":"GF"
+  },
+  "974": {
+    "departement":"La Réunion",
+    "region":"La Réunion",
+"country":"RE"
+  },
+  "975": {
+    "departement":"Saint-Pierre-et-Miquelon",
+    "region":"Saint-Pierre-et-Miquelon",
+"country":"PM"
+  },
+  "976": {
+    "departement":"Mayotte",
+    "region":"Mayotte",
+"country":"YT"
+  },
+  "977": {
+    "departement":"Saint-Barthélemy",
+    "region":"Saint-Barthélemy",
+"country":"BL"
+  },
+  "978": {
+    "departement":"Saint-Martin",
+    "region":"Saint-Martin",
+"country":"MF"
+  },
+  "984": {
+    "departement":"Terres australes et antarctiques françaises",
+    "region":"Terres australes et antarctiques françaises",
+"country":"TA"
+  },
+  "986": {
+    "departement":"Wallis-et-Futuna",
+    "region":"Wallis-et-Futuna",
+"country":"WF"
+  },
+  "987": {
+    "departement":"Polynésie française",
+    "region":"Polynésie française",
+"country":"PF"
+  },
+  "988": {
+    "departement":"Nouvelle-Calédonie",
+    "region":"Nouvelle-Calédonie",
+"country":"NC"
+  },
+  "989": {
+    "departement":"Ile de Clipperton",
+    "region":"Ile de Clipperton",
+"country":"CP"
+  }
+  ,
+  "991": {
+    "departement":"",
+    "region":"",
+"country":"MC"
+  }
+}
